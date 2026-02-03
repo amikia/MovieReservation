@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MovieReservation-DataAccess/MovieReservation.DataAccess.csproj" />
+  <Project Path="MovieReservation-Web-Api/MovieReservation-Web-Api.csproj" />
+  <Project Path="MovieReservationApplication/MovieReservation.Application.csproj" />
+  <Project Path="MovieReservationShared/MovieReservation.Shared.shproj" />
+</Solution>
