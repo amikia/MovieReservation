@@ -1,6 +1,6 @@
 <Solution>
-  <Project Path="MovieReservation-DataAccess/MovieReservation.DataAccess.csproj" />
   <Project Path="MovieReservation-Web-Api/MovieReservation-Web-Api.csproj" />
-  <Project Path="MovieReservationApplication/MovieReservation.Application.csproj" />
-  <Project Path="MovieReservationShared/MovieReservation.Shared.shproj" />
+  <Project Path="MovieReservation.Application/MovieReservation.Application.csproj" Id="0aeddf3d-f08f-4283-826a-dbbf7629faa7" />
+  <Project Path="MovieReservation.DataAccess/MovieReservation.DataAccess.csproj" Id="6d7f3b21-2770-497b-9141-4e6f5da246ea" />
+  <Project Path="MovieReservation.Shared/MovieReservation.Shared.shproj" Id="63b6f073-d41d-4c35-aa83-3e670ae80d69" />
 </Solution>
